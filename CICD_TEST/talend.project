@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_VG3g0WfIEeyzVOYTxkRXFw" label="CICD_TEST" description="" language="java" technicalLabel="CICD_TEST" author="_VG3g0mfIEeyzVOYTxkRXFw" productVersion="Talend Real-time Big Data Platform-7.3.1.20210422_0824-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/kenneth-nable/CICD_TEST.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_VG3g0WfIEeyzVOYTxkRXFw" label="CICD_TEST" description="" language="java" technicalLabel="CICD_TEST" author="_VG3g0mfIEeyzVOYTxkRXFw" productVersion="Talend Real-time Big Data Platform-7.3.1.20210422_0824-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/kenneth-nable/CICD_TEST.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_VLx2AGfIEeyzVOYTxkRXFw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_VG3g0mfIEeyzVOYTxkRXFw" login="kenneth@n-able.biz" firstName="Kenneth" lastName="Chamara" type="DQ" additionnalData="{}"/>
